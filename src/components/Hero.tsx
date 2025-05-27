@@ -59,7 +59,7 @@ const Hero = () => {
   const downloadResume = () => {
     // Create a link element and trigger download
     const link = document.createElement('a');
-    link.href = 'Kishore Resume.pdf'; // You'll need to add your resume.pdf to the public folder
+    link.href = '/public/Kishore Resume.pdf'; // You'll need to add your resume.pdf to the public folder
     link.download = 'Kishore_Resume.pdf';
     document.body.appendChild(link);
     link.click();

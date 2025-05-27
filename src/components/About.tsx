@@ -61,7 +61,7 @@ const About = () => {
             <div className="relative">
               <div className="w-80 h-80 rounded-full overflow-hidden glass p-2 animate-float group hover:animate-glow cursor-pointer transition-all duration-500">
                 <img 
-                  src="/src/components/image.jpg" 
+                  src="/image/image.jpg" 
                   alt="Kishore Profile" 
                   className="w-full h-full rounded-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
