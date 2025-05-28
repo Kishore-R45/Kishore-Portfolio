@@ -46,63 +46,68 @@ const CertificatesSlider = () => {
     },
     {
       id: 8,
+      title: "NPTEL Introduction to IOT",
+      image: "/Ceritificate-Portfolio/Introducction to IOT.jpg"
+    },
+    {
+      id: 9,
       title: "Flipkart Certification",
       image: "/Ceritificate-Portfolio/Flipkart.jpg"
     },
     {
-      id: 9,
+      id: 10,
       title: "Zidio Training",
       image: "/Ceritificate-Portfolio/Zidio-Training.jpg"
     },
     
     {
-      id: 10,
+      id: 11,
       title: "Cloud Computing (Infosys)",
       image: "/Ceritificate-Portfolio/Cloud_computing(Infosis).jpg"
     },
     {
-      id: 11,
+      id: 12,
       title: "Coursera Cloud SaaS",
       image: "/Ceritificate-Portfolio/Coursera-Cloud(SaaS).png"
     },
     
     {
-      id: 12,
+      id: 13,
       title: "Data Science (Infosys)",
       image: "/Ceritificate-Portfolio/Datascience(Infosis).jpg"
     },
     {
-      id: 13,
+      id: 14,
       title: "Microsoft AI Certification",
       image: "/Ceritificate-Portfolio/Microsoft-AI.jpg"
     },
     {
-      id: 14,
+      id: 15,
       title: "Figma Design (Crescent)",
       image: "/Ceritificate-Portfolio/Creasent-Figma.jpg"
     },
     {
-      id: 15,
+      id: 16,
       title: "Sector Training (Crescent)",
       image: "/Ceritificate-Portfolio/Creasent-Sector.jpg"
     },
     {
-      id: 16,
+      id: 17,
       title: "National Level Quiz",
       image: "/Ceritificate-Portfolio/NationalLevel-Quiz.jpg"
     },
     {
-      id: 17,
+      id: 18,
       title: "HTML Global Logic",
       image: "/Ceritificate-Portfolio/HTML-GL.jpg"
     },
     {
-      id: 18,
+      id: 19,
       title: "RBI Quiz Competition",
       image: "/Ceritificate-Portfolio/RBI-Quiz.jpg"
     },
     {
-      id: 19,
+      id: 20,
       title: "Be10X Certification",
       image: "/Ceritificate-Portfolio/Be10X.jpg"
     }
