@@ -47,7 +47,7 @@ const CertificatesSlider = () => {
     {
       id: 8,
       title: "NPTEL Introduction to IOT",
-      image: "/Ceritificate-Portfolio/Introducction to IOT.png"
+      image: "/Ceritificate-Portfolio/NPTEL-Introduction_to_IOT.jpg"
     },
     {
       id: 9,
